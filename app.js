@@ -29,7 +29,8 @@ while(numeroChute != numeroSecreto)
 
     if (numeroChute == numeroSecreto) 
         {
-            alert (`Parabéns, você acertou, o número secreto é ${numeroSecreto}, com ${tentativas} tentavivas !`);
+
+            break;
         }
                 
         else 
@@ -47,6 +48,15 @@ while(numeroChute != numeroSecreto)
         }
 
 
+}
+
+if (tentativas == 1)
+{
+    alert (`Parabéns, você acertou, o número secreto é ${numeroSecreto}, com ${tentativas} tentaviva !`);
+}
+else
+{
+    alert (`Parabéns, você acertou, o número secreto é ${numeroSecreto}, com ${tentativas} tentavivas !`);
 }
 
 
