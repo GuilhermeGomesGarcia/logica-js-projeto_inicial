@@ -1,7 +1,8 @@
 let nomeUsuario = prompt (`Bem vindo ao jogo de adivinhação! Qual o seu nome?`);
 alert (`Olá ${nomeUsuario}! Vamos começar!`);
 
-let numeroSecreto = 32;
+let numeroSecreto = parseInt ( Math.random() * 100+1 );
+
 console.log (numeroSecreto);
 let numeroChute;
 let tentativas = 1;
@@ -50,14 +51,10 @@ while(numeroChute != numeroSecreto)
 
 }
 
-if (tentativas == 1)
-{
-    alert (`Parabéns, você acertou, o número secreto é ${numeroSecreto}, com ${tentativas} tentaviva !`);
-}
-else
-{
-    alert (`Parabéns, você acertou, o número secreto é ${numeroSecreto}, com ${tentativas} tentavivas !`);
-}
+let palavraTentativa = tentativas > 1 ? "tentativas" : "tentativa";
+
+alert (`Parabéns, você acertou, o número secreto é ${numeroSecreto}, com ${tentativas} ${palavraTentativa} !`);
+
 
 
 // Fim do código
