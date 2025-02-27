@@ -1,7 +1,11 @@
+let num = 4000;
+
 let nomeUsuario = prompt (`Bem vindo ao jogo de adivinhação! Qual o seu nome?`);
 alert (`Olá ${nomeUsuario}! Vamos começar!`);
 
-let numeroSecreto = parseInt ( Math.random() * 100+1 );
+
+
+let numeroSecreto = parseInt ( Math.random() * num + 1 );
 
 console.log (numeroSecreto);
 let numeroChute;
@@ -11,7 +15,7 @@ while(numeroChute != numeroSecreto)
 {
     
 
-    numeroChute = prompt (`${nomeUsuario} escolha um número entre 0 e 100:`);
+    numeroChute = prompt (`${nomeUsuario} escolha um número entre 0 e ${num}:`);
 
     
     if (numeroChute == null) 
@@ -53,7 +57,7 @@ while(numeroChute != numeroSecreto)
 
 let palavraTentativa = tentativas > 1 ? "tentativas" : "tentativa";
 
-alert (`Parabéns, você acertou, o número secreto é ${numeroSecreto}, com ${tentativas} ${palavraTentativa} !`);
+alert (`Parabéns ${nomeUsuario}, você acertou, o número secreto é ${numeroSecreto}, com ${tentativas} ${palavraTentativa} !`);
 
 
 
