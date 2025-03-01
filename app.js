@@ -1,4 +1,4 @@
-let num = 4000;
+let num = 100;
 
 let nomeUsuario = prompt (`Bem vindo ao jogo de adivinhação! Qual o seu nome?`);
 alert (`Olá ${nomeUsuario}! Vamos começar!`);
