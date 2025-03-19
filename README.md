@@ -1,10 +1,14 @@
-# logica-js-projeto_inicial
- Primeiro projeto de javascript, onde consiste em formular um jogo de advinhação.
- 
- O jogo consiste em fazer com que o usuário acerte o número secreto, que é gerado de maneira aleátoria.
- 
- Para ajudar o usuário a advinhar o número, é emitido na tela mensagens demostrando se o número a ser advinhado é maior ou menor que o número digitado pelo usuário.
- 
-Ao final, é demostrado na tela quantos chutes o usuário efetuou, e se ele quiser, é permitido uma nova rodada.
+<h1>Jogo do número secreto</h1>
 
-Ao reiniciar o jogo, um novo numéro aleátorio é gerado, sem repetir aos números anteriores.
+<h2>�� Sobre</h2>
+<p>Projeto utilizado no curso de lógica de programação da Alura.</p>
+
+## �� Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
+## *Time*
+[<img loading="abelha" src="https://avatars.githubusercontent.com/u/199991280?s=4" width=115><br>]
