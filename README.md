@@ -12,4 +12,4 @@
 </div>
 
 ## 👨‍💻👩‍💻 <b>Time
-<img loading="abelha" src="https://avatars.githubusercontent.com/u/199991280?s=400&u=9dafe564b5c169e311e0d5a4f75f06e06f7e253c&v=4" width=115><h2><sub><b>Guilherme Garcia</sub></h2>
+<img loading="abelha" src="https://avatars.githubusercontent.com/u/199991280?s=400&u=9dafe564b5c169e311e0d5a4f75f06e06f7e253c&v=4" width=115><h2><sub><b>[Guilherme Garcia](https://github.com/GuilhermeGomesGarcia)</sub></h2>
