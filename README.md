@@ -11,4 +11,4 @@
 </div>
 
 ## *Time*
-[<img loading="abelha" src="https://avatars.githubusercontent.com/u/199991280?s=4" width=115><br>]
+[<img loading="lazzy" src="https://avatars.githubusercontent.com/u/199991280?s=4" width=115><br>]
