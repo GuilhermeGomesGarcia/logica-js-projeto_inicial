@@ -11,4 +11,4 @@
 </div>
 
 ## *Time*
-<img loading="abelha" src="https://avatars.githubusercontent.com/u/199991280?s=400&u=9dafe564b5c169e311e0d5a4f75f06e06f7e253c&v=4" width=115>
+<sub>Guilherme Garcia</sub><img loading="abelha" src="https://avatars.githubusercontent.com/u/199991280?s=400&u=9dafe564b5c169e311e0d5a4f75f06e06f7e253c&v=4" width=115>
