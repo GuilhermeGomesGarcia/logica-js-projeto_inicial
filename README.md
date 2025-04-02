@@ -2,7 +2,7 @@
 
 <h2>📜 Sobre</h2>
 <p>Projeto utilizado no curso de lógica de programação da Alura.</p>
-<p>Neste projeto temos como intuito, criar um jogo onde o usuário tenta advinhar um número aleatório gerado pelo programa.</p>
+<p>Neste projeto temos como intuito, criar um jogo onde o usuário tenta adivinhar um número aleatório gerado pelo programa.</p>
 
 ## 🚀 Tecnologias
 <div>
